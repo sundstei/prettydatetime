@@ -1,4 +1,4 @@
 prettydatetime
 ==============
 
-A Pretty formatter for DateTime in .NET with regional support.
+A Pretty formatter for DateTime in .NET which supports internationalization.
